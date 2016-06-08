@@ -19,7 +19,7 @@
             <li>翻译(List)</li>
             <li>网络释义(List)(if have)</li>
           </ul>
-  - transferSentence
+  - transferSentence<br>
     transfer English, Japanese, Korean, French, Russian.. to Chinese or Chinese to English<br><br>
       request:<br>
           <ul>
